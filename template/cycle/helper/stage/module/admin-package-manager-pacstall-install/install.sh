@@ -48,10 +48,6 @@ REF_INIT_DIR_PATH="${REF_BASE_DIR_PATH}/../../../ext"
 ### Head: Model / mod_module_pacstall_install
 ##
 
-util_error_echo () {
-	return 0
-}
-
 sys_pacstall_build_essential () {
 
 
