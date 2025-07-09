@@ -4,3 +4,20 @@
 ## # custom-tail
 ##
 
+
+
+
+##
+## ## pacstall-themes
+##
+
+#pacstall-themes-install
+
+
+
+
+##
+## ## pacstall-packages
+##
+
+#pacstall-packages-install
